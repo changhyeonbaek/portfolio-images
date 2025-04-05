@@ -78,5 +78,28 @@
       "github": "https://github.com/changhyeonbaek/react-tomorrow-house",
       "deploy": "https://changhyeonbaek.github.io/react-tomorrow-house/"
     }
+  },
+  {
+  "id": 4,
+  "title": "포트폴리오",
+  "images": [
+    "https://github.com/changhyeonbaek/portfolio-images/blob/main/portfolio-baekchanghyeon-1.png?raw=true",
+    "https://github.com/changhyeonbaek/portfolio-images/blob/main/portfolio-baekchanghyeon-2.png?raw=true",
+    "https://github.com/changhyeonbaek/portfolio-images/blob/main/portfolio-baekchanghyeon-3.png?raw=true",
+    "https://github.com/changhyeonbaek/portfolio-images/blob/main/portfolio-baekchanghyeon-4.png?raw=true",
+    "https://github.com/changhyeonbaek/portfolio-images/blob/main/portfolio-baekchanghyeon-5.png?raw=true",
+    "https://github.com/changhyeonbaek/portfolio-images/blob/main/portfolio-baekchanghyeon-6.png?raw=true",
+    "https://github.com/changhyeonbaek/portfolio-images/blob/main/portfolio-baekchanghyeon-7.png?raw=true",
+    "https://github.com/changhyeonbaek/portfolio-images/blob/main/portfolio-baekchanghyeon-8.png?raw=true"
+  ],
+  "details": {
+    "type": "React",
+    "tech": "React, React Router, SCSS, Axios, React-Slick",
+    "description": "개인 포트폴리오 웹사이트입니다. React Router로 페이지 간 라우팅을 구현하고, SCSS로 반응형 디자인과 애니메이션을 설계했습니다. Axios를 활용해 GitHub에서 프로젝트 데이터를 비동기적으로 가져오며, React-Slick으로 프로젝트 이미지를 슬라이더 형태로 표시합니다. 자기 소개 섹션에는 스크롤 기반 인터랙션과 키워드 룰렛을 추가해 동적인 UI를 구성했습니다."
+  },
+  "links": {
+    "github": "https://github.com/changhyeonbaek/portfolio-baekchanghyeon",
+    "deploy": ""
   }
+}
 ]
